@@ -51,7 +51,7 @@ void main()
 		}
 
 
-		printf("\nI choose 50 and I won !!");
+		printf("\n\nI choose 50 and I won !!");
 		getch();
 		goto restart;
 
